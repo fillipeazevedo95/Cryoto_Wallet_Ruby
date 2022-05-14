@@ -41,8 +41,9 @@ en:
     edit: "Edit"
     show: "Show"
     delete: "Delete"
-    new: "New"
+    new: "New Coin"
     back: "Back"
+    select: "Select..."
   new:
     coin: "New Coin"
     mining_type: "New Mining Type"
